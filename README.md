@@ -9,7 +9,7 @@ The Jetson Orin NX SUB developer kit consists of NVIDIA's Jetson Orin NX core mo
 * Based on the Ubuntu 20.04 system, Yahboom provides many ROS and AI vision related tutorials and open source codes.
 
 # More Details
-[Click here]([https://category.yahboom.net/products/jetson-orin-nx])
+[Click here](https://category.yahboom.net/products/jetson-orin-nx)
 
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
