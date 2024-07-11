@@ -1,5 +1,5 @@
 # Jetson Orin NX SUB Developer Kit with 8G/16GB RAM
-![]([https://github.com/YahboomTechnology/Jetson_Orin_NX/blob/main/Jeston_orin_nx.jpg])
+![]([https://github.com/YahboomTechnology/Jetson_Orin_NX/blob/main/NVIDIA_JETSON_NX.jpg])
 # Introduction
 The Jetson Orin NX SUB developer kit consists of NVIDIA's Jetson Orin NX core module and Yahboom Jetson Orin NX carrier board. RAM has 8G/16GB for choice. The computing power can reach 70TOPS and 100TOPS respectively. Yahboom will provide 128GB M.2 SSD that has been written into the system, as well as installed WiFi network card, power supply and other accessories. Users can enjoy Orin NX quickly without complex environment setup steps.
 # Features
